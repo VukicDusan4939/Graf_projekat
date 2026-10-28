@@ -13,7 +13,7 @@ namespace liste_2026_3_9a
         public string[] Cvor;
         public List<grana>[] grane;
         public graf() { }
-
+         
         public void Unos()
         {
             Console.WriteLine("Unesite broj cvorova");
