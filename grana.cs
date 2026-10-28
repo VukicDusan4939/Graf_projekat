@@ -8,7 +8,7 @@ namespace liste_2026_3_9a
 {
     internal class grana
     {
-        public int kraj;
+        public int cvor;
         public int tezina;
     }
 }
